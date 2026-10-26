@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+gps_distance_processing/data/output_track.csv
