@@ -56,3 +56,11 @@ PROJECT_NOTES.md
 ## Academic integrity and provenance
 
 The project is a post-course educational adaptation; it does not redistribute examination materials, university assignment questions, supplied data or lecture slides. Course-related public sharing rules should be confirmed before switching the repository from Private to Public.
+
+## Additional portfolio exercises
+
+- `movie_review_analysis/summary.py`: per-movie ratings and basic lexicon-sentiment summaries.
+- `gps_distance_processing/track_summary.py`: total distance and longest consecutive segment in a CSV trajectory.
+- `tests/test_summaries.py`: additional synthetic-data and empty-input tests.
+
+These are **later, independently authored AI-assisted extensions**, not original assessed submissions.
